@@ -1,1 +1,3 @@
-# new-repo
+- ce programme  dans le ficher main.py va créer l'arborescence demandée dans le devoir
+- il a été conçu par ces étapes: initialisation du répertoire, création de la fonction create_project_data_path avec les variables root_path et method; là, on crée les directories et ensuite les fichiers d'une manière à obtenir l'arborescence demandée; ensuite on définit les répertoires et les sous répertoires et enfin on crée l'arborescence et les fichiers. 
+- il suffit juste de lancer le programme pour le faire fonctionner. 
